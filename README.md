@@ -1,1 +1,28 @@
 # dom
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doc</title>
+    
+        <link rel="stylesheet" href="d1.css">
+        <!--<style>
+            h1{
+                color:black;
+            }
+        </style>-->
+    
+</head>
+<body>
+    <h1>h1</h1>
+    <p>
+        let's start code with boxsas
+    </p>
+    <button>
+        click on  me!
+    </button>
+    <script src="DOM.js"></script>
+    
+</body>
+</html>
